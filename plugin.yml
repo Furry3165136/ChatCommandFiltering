@@ -1,0 +1,6 @@
+name: ChatCommandFiltering
+version: 1.0.0
+api: [1.12.0]
+main: ChatCommandFiltering\Main
+authors: [YourName]
+description: 聊天指令内容过滤插件
